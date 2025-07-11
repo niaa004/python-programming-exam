@@ -1,17 +1,15 @@
 # PGR107 Python Exam – Spring 2025
 
-This repository contains my original solution to the final exam in **PGR107 – Programming 1 (Python)** at Kristiania University College.
+This repository contains my original solution to the final exam in **PGR107 – Programming (Python)** at Kristiania University College.
 
----
 
 ## 💡 About
 
-- **Language:** Python 3 (using only core syntax and features from lectures)
+- **Language:** Python 3
 - **Environment:** Command line / terminal
 - **Tools:** Standard interpreter, no external libraries
 - **Grade:** A
 
----
 
 ## 📂 Structure
 
@@ -27,17 +25,9 @@ This repository contains my original solution to the final exam in **PGR107 – 
 - `question4.py`: Palindrome Checker  
   Validates user input and checks if a string is a palindrome, handling punctuation and case.
 
----
 
 ## ✅ Notes
 
-- All code was written using only the tools and techniques taught in lectures (Lectures 1–10).
 - Topics include: input/output, loops, decisions, functions, file handling, lists, and classes.
 - No third-party libraries or advanced Python features were used.
 - Each script is self-contained and runnable in a terminal.
-
----
-
-## ⚠️ Disclaimer
-
-This submission reflects individual work completed under exam conditions. It is shared here as a portfolio reference and for study inspiration—**not for reuse or plagiarism**.
